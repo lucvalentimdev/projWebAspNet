@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projWebAspNet\\WebProject\\WebProject.csproj",
+      "projectUniqueName": "C:\\projWebAspnet\\WebProject\\WebProject.csproj",
       "projectName": "WebProject",
-      "projectPath": "C:\\projWebAspNet\\WebProject\\WebProject.csproj",
+      "projectPath": "C:\\projWebAspnet\\WebProject\\WebProject.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\projWebAspNet\\WebProject\\obj\\",
+      "outputPath": "C:\\projWebAspnet\\WebProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
